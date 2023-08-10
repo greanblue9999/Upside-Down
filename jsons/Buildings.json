@@ -1,10 +1,17 @@
-[
-   	{
-		"name": "Tnemunom",
+[	
+	{
+		"name": "YEEX",
 		"replaces": "Monument",
 		"uniqueTo": "Upside-Down",
-		"culture": 2,
-		"faith": 2,
+		"food": 4,
+		"gold": 4,
+		"culture": 4,
+		"faith": 4,
+		"science": 4,
+		"happiness": 4,
+		"production": 4,
+		"cityStrength": 60000,
+		"cityHealth": 1000000,
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
