@@ -10,9 +10,9 @@
 		"happiness": 69,
 		"cityStrength": 60000,
 		"cityHealth": 1000000,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
+		"cost": 0,
+		"hurryCostModifier": 0,
+		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
