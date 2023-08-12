@@ -1,6 +1,6 @@
 [
 	{
-		"name": "SettlerEX",
+		"name": "Settler_EX",
 		"unitType": "Civilian",
 		"uniqueTo": "Upside-Down",
 		"replaces": "Settler",
@@ -9,6 +9,33 @@
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
+	},
+	{
+		"name": "Jet-Fighter_EX",
+		"unitType": "Fighter",
+		"uniqueTo": "Upside-Down",
+		"replaces": "Jet Fighter",
+		"movement": 1,
+		"strength": 75,
+		"rangedStrength": 75,
+		"range": 10,
+		"interceptRange": 10,
+		"cost": 0,
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "jetgun"
+	},
+	{
+		"name": "Stealth-Bomber_EX",
+		"unitType": "Bomber",
+		"uniqueTo": "Upside-Down",
+		"replaces": "Stealth Bomber",
+		"movement": 2,
+		"strength": 85,
+		"rangedStrength": 85,
+		"range": 20,
+		"cost": 0,
+		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"attackSound": "bombing"
 	},
 	{
 		"name": "Roirraw",
