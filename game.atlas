@@ -1019,3 +1019,24 @@ UnitIcons/Yrlavac
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Settler_EX
+  rotate: false
+  xy: 1378, 754
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet-Fighter_EX
+  rotate: false
+  xy: 860, 1618
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stealth-Bomber_EX
+  rotate: false
+  xy: 1810, 862
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
