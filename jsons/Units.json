@@ -7,7 +7,7 @@
 		"movement": 15,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
+			"Requires at least [2] population", "[+16] Sight", "Can see over obstacles"],
 		"hurryCostModifier": 20
 	},
 	{
