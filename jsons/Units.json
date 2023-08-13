@@ -21,7 +21,7 @@
 		"range": 20,
 		"interceptRange": 20,
 		"cost": 0,
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"uniques": ["[+300]% Strength", "[100]% chance to intercept air attacks"],
 		"attackSound": "jetgun"
 	},
 	{
@@ -34,7 +34,7 @@
 		"rangedStrength": 85,
 		"range": 40,
 		"cost": 0,
-		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"uniques": ["[+300]% Strength", "Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
 	{
