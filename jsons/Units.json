@@ -5,7 +5,7 @@
 		"uniqueTo": "Upside-Down",
 		"replaces": "Settler",
 		"movement": 15,
-		"cost": 106,
+		"cost": 0,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population", "[+16] Sight", "Can see over obstacles"],
 		"hurryCostModifier": 20
@@ -34,7 +34,7 @@
 		"rangedStrength": 85,
 		"range": 40,
 		"cost": 0,
-		"uniques": ["[+300]% Strength", "Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"uniques": ["[+300]% Strength", "Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+12] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
 	{
